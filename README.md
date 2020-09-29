@@ -32,7 +32,9 @@ En este segmento realiza la serie de Fibonacci, a través de condiciones que se 
 # Ejecución del programa.
 
 Se calcula la serie de Fibonacci de 5.
+
 ![4](https://user-images.githubusercontent.com/72088585/94623627-41e93400-027a-11eb-9ad5-a67a833ca8aa.png)
+
 Se comparan los resultados:
 
 f(5) = f(5-1) + f(5-2)
@@ -45,7 +47,9 @@ f(5) = 5
 
 
 Se calcula la serie de Fibonacci de 20.
+
 ![5](https://user-images.githubusercontent.com/72088585/94623897-e0759500-027a-11eb-8f58-5f886aad2dbe.png)
+
 Se comparan los resultados:
 
 f(20) = f(20-1) + f(20-2)
